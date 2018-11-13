@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OrderedTest name="demo" storage="c:\users\e002136\desktop\erecruit svn\4 test scripts\automation\gtaf.web\automatedtest\demo.orderedtest" id="5c04f2dd-bc7b-4764-9d71-1f9ab52f9eac" continueAfterFailure="true" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestLinks>
+    <TestLink id="338e3709-3c83-202e-b048-7f0ad276b365" name="TC_C281366_Verify_Add_Note" storage="..\target\bin\debug\automatedtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+    <TestLink id="15896e8d-4930-4767-3fcb-ad93db8656d1" name="TC_C281367_Verify_Add_Schedule_Item" storage="..\target\bin\debug\automatedtest.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
+  </TestLinks>
+</OrderedTest>

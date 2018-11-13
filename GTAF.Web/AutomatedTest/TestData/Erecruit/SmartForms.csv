@@ -1,0 +1,2 @@
+SmartForm,FormName,Field,Prompt,NegativeOne,NegativeTwo,NegativeThree,PositiveOne,PositiveTwo,PositiveThree,NegativeDecimalOne,NegativeDecimalTwo,NegativeDecimalThree,PositiveDecimalOne,PositiveDecimalTwo,PositiveDecimalThree
+form,SmartForm-{random},Test,Form,-3,-4,-8,6,3,7,-1.2,-2.3,-3.5,1.4,2.6,3.8
